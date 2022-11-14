@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645614560 source:c:\users\msami\desktop\c programlama dersi\baþlangýç - 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

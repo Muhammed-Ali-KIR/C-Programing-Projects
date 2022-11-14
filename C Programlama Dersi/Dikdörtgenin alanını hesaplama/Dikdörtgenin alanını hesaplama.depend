@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646124207 source:c:\users\msami\desktop\c programlama dersi\dikdörtgenin alanýný hesaplama\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

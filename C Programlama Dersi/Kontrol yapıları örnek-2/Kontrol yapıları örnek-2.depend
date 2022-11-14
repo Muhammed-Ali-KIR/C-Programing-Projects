@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646130352 source:c:\users\msami\desktop\c programlama dersi\kontrol yapýlarý örnek-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
